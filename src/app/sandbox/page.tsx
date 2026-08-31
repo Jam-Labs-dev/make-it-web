@@ -26,10 +26,12 @@ export default function Sandbox() {
           { id: "103", conteudo: "Desenvolver dashboard principal", completado: false },
         ],
         anexos: [
-          { id: "a1", nome: "Augusto.jpg", formato: "imagem", url: "https://avatars.githubusercontent.com/u/114544659?v=4" },
-          { id: "a2", nome: "Michael.jpg", formato: "imagem", url: "https://avatars.githubusercontent.com/u/139723370?s=130&v=4"},
-          { id: "a3", nome: "Joab.jpg", formato: "imagem", url: "https://avatars.githubusercontent.com/u/242846161?s=130&v=4" },
-          { id: "a4", nome: "Arthur.jpg", formato: "imagem", url: "https://avatars.githubusercontent.com/u/153288958?s=130&v=4" }
+          { id: "a1", nome: "Hian.jpg", formato: "imagem", url: "https://avatars.githubusercontent.com/u/228713764?s=130&v=4" },
+          { id: "a2", nome: "Augusto.jpg", formato: "imagem", url: "https://avatars.githubusercontent.com/u/114544659?v=4" },
+          { id: "a3", nome: "Michael.jpg", formato: "imagem", url: "https://avatars.githubusercontent.com/u/139723370?s=130&v=4"},
+          { id: "a4", nome: "Elton.jpg", formato: "imagem", url: "https://avatars.githubusercontent.com/u/238584604?s=130&v=4" },
+          { id: "a5", nome: "Joab.jpg", formato: "imagem", url: "https://avatars.githubusercontent.com/u/242846161?s=130&v=4" },
+          { id: "a6", nome: "Arthur.jpg", formato: "imagem", url: "https://avatars.githubusercontent.com/u/153288958?s=130&v=4" }
         ]
       }
     },
